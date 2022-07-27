@@ -1,5 +1,7 @@
 # pinterest-clone
 
+Reference Design : https://www.uplabs.com/posts/pinterest-redesign-ux-concept
+
 ## Project setup
 ```
 npm install
